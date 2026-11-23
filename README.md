@@ -1,5 +1,5 @@
 # LMS-landing-page-with-REACT
-A simple educational website built with React and Vite. This project is the updated version of the LMS landing page of the project at https://github.com/ahm81r-spec/LMS-landing-page
+A simple educational website built with React and Vite.
 
 ## Run the Project
 
