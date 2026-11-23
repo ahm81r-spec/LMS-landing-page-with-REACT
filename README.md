@@ -1,5 +1,5 @@
 # LMS-landing-page-with-REACT
-A simple educational website built with React and Tailwind CSS.
+A simple Learning Management System landing page built with React and Tailwind CSS.
 
 ## Run the Project
 
