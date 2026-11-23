@@ -1,5 +1,5 @@
 # LMS-landing-page-with-REACT
-A simple educational website built with React and Vite.
+A simple educational website built with React and Tailwind CSS.
 
 ## Run the Project
 
