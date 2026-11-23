@@ -1,0 +1,14 @@
+@import url("https://googleapis.com");
+@import "tailwindcss";
+
+@layer base {
+  html {
+    font-family: "Lexend", sans-serif;
+  }
+}
+body {
+  width: "1280px";
+  min-width: 320px;
+  background: #f5f7f8;
+  color: #0a2540;
+}
